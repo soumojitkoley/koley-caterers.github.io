@@ -310,7 +310,7 @@ input[type="checkbox"] {
 
 .best-catering-banner::before {
   content: '';
-  background-image: url(./images/best-catering-banner.jpg);
+  background-image: url(./images/catring-banner-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;

@@ -310,7 +310,7 @@ input[type="checkbox"] {
 
 .best-catering-banner::before {
   content: '';
-  background-image: url();
+  background-image: url(./images/best-catering-banner.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
@@ -447,7 +447,7 @@ input[type="checkbox"] {
 
 .service-info::before {
   content: '';
-  background-image: url(/images/service-bg.jpg);
+  background-image: url(./images/service-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
@@ -650,7 +650,7 @@ input[type="checkbox"] {
 
 .variety-menu-banner::before {
   content: '';
-  background-image: url(/images/variety-menu-pc-bg.jpg);
+  background-image: url(./images/variety-menu-pc-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
@@ -710,7 +710,7 @@ input[type="checkbox"] {
   }
 
   .variety-menu-banner::before {
-    background-image: url(/images/variety-menu-ph-bg.jpg);
+    background-image: url(./images/variety-menu-ph-bg.jpg);
   }
 
   .variety-menu-banner-content h1 {
@@ -858,7 +858,7 @@ input[type="checkbox"] {
 
 .contact-us-banner::before {
   content: '';
-  background-image: url(/images/contact-us-pc-bg.jpg);
+  background-image: url(./images/contact-us-pc-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
